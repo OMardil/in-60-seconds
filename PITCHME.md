@@ -62,8 +62,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 +++
 ##Adiós!
 
----
-#Hello World
+---?code=src/HelloWorld.java
+Hello World
 ```java
 public class HelloWorld{
 	public static void main(String[] args){
