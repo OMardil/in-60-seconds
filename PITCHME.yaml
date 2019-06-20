@@ -39,6 +39,14 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 published : true
 
 #
+# Code lines
+code-line-numbers : true
+
+#
+# Remote settings
+remote-control : true
+
+#
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
