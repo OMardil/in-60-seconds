@@ -29,7 +29,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 #### And start presenting...
 @snapend
 
-@snap[west span-30]
+@snap[west span-55]
 @ul[spaced text-white]
 - You will be amazed
 - What you can achieve
