@@ -2,7 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
+## Add Some Slide Candy :)
 
 ![](assets/img/presentation.png)
 
