@@ -51,3 +51,13 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
+
+---
+
+##Hello!
++++
+##Hola!
+---
+##Goodbye!
++++
+##Adiós!
